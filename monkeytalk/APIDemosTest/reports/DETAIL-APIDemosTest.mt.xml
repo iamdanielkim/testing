@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-06-09 10:18:38.302 KST" projectPath="/Users/skplanet/monkeytalk/workspace/APIDemos" agent="AndroidEmulator v2.0.5_423 - 2014-05-15 08:30:00 MDT" runner="MonkeyTalk IDE v2.0.6-SNAPSHOT_422 - 2014-05-13 15:58:54 MDT">
+    <script  comp="Script" id="APIDemosTest.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script APIDemosTest.mt Run %thinktime=500 %timeout=2000" idx="1" start="1402276708376" stop="1402276718243" duration="9.867" result="ok">
+        <cmd  comp="Table" id="*" action="selectIndex" args="12" mods="%thinktime=500 %timeout=2000" raw="Table * selectIndex 12 %thinktime=500 %timeout=2000" idx="2" start="1402276708424" stop="1402276712057" duration="3.633" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="selectIndex" args="3" mods="%thinktime=500 %timeout=2000" raw="Table * selectIndex 3 %thinktime=500 %timeout=2000" idx="3" start="1402276712057" stop="1402276715693" duration="3.636" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="This will run the marquee animation forever" action="tap" mods="%thinktime=500 %timeout=2000" raw="Button &quot;This will run the marquee animation forever&quot; tap %thinktime=500 %timeout=2000" idx="4" start="1402276715693" stop="1402276716209" duration="0.516" result="ok">
+            <msg><![CDATA[Label with monkeyID #4 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Button" id="This will run the marquee animation forever" action="tap" mods="%thinktime=500 %timeout=2000" raw="Button &quot;This will run the marquee animation forever&quot; tap %thinktime=500 %timeout=2000" idx="5" start="1402276716209" stop="1402276716715" duration="0.506" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="This will run the marquee animation forever" action="tap" mods="%thinktime=500 %timeout=2000" raw="Button &quot;This will run the marquee animation forever&quot; tap %thinktime=500 %timeout=2000" idx="6" start="1402276716716" stop="1402276717226" duration="0.51" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="7" start="1402276717226" stop="1402276717734" duration="0.508" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="8" start="1402276717734" stop="1402276718243" duration="0.509" result="ok">
+        </cmd>
+    </script>
+</detail>
